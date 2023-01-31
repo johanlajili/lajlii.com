@@ -13,7 +13,7 @@ But as a programmer, something about Japanese has always felt natural. Whereas E
 
 <!-- more -->
 
-**Note : this is not a lesson in Japanese, but an introduction to how different language can be has different as Haskell and C. I'll purposedely focus on the most idiomatic parts of the language**
+**Note : this is not a lesson in Japanese, but an introduction to how different language can be as different as Haskell and C. I'll purposedely focus on the most idiomatic parts of the language**
 
 If japanese was a programming language, it would feature the following concepts:
 
@@ -60,7 +60,7 @@ The order does matter, it is quite different to english but very similar to func
 //You would not do the english order "Send the request to the server"
   send().request.setURL("serverurl")
 
-  // you woudl do the japanese order "For this request, with the URL xxx, send it to the server"
+  // you would do the japanese order "For this request, with the URL xxx, send it to the server"
   request.setURL("serverurl").send()
 ```
 
