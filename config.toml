@@ -27,7 +27,6 @@ navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "About me" },
   { url = "$BASE_URL/posts", name = "Posts" },
-  { url = "$BASE_URL/tags", name = "Tags" },
  ]},
 ]
 
@@ -46,21 +45,12 @@ avatar = "/images/avatar.png"
 
 # Social links
 [extra.social]
-email = "<email_id>"
-github = "<github_username>"
-linkedin = "<linkedin_username>"
-twitter = "<twitter_username>"
+email = "johan.lajili@gmail.com"
+github = "johanlajili"
+linkedin = "johanlajili"
+twitter = "Johan_Lajili"
 
 
 # To add google analytics
 [extra.analytics]
-google = "<your_gtag>"
-
-# To add disqus comments
-[extra.commenting]
-disqus = "<your_disqus_shortname>"
-
-# To enable mapbox maps
-[extra.mapbox]
-enabled = true
-access_token = "<your_access_token>"
+google = "G-8HBXNW3TGY"
