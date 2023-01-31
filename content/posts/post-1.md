@@ -87,3 +87,5 @@ You can see here as an example that all the kanjis for the various type of fish 
 I won't go into detail (although depending on the receiption of this I might do a part 2), but similar parallels can be made for prepositions, adjectives, adverbs... I did not go into the pronounciation of Kanji as that's a whole other conversation. 
 
 I hope this triggered your curiosity for the language. Of course might have gotten stuff wrong, if so feel free to send me a message, tweet, comment on HackerNews or whatever you prefer. I'm always happy to learn more about Japanese and I'm sure I'll be making more mistakes in the future.
+    
+[![shrine](/images/shrine.png)](/images/shrine.png)
