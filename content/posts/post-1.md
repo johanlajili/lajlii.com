@@ -25,7 +25,7 @@ const ha2:Katakana = "ハ"; // same sound as hiragana version
 const day:Kanji = "日";
 ```
 
-Hiraganas and Katakanas are a phonetic alphabet, that allow to represent sound. Kanjis are logograms, that represent concepts.
+Hiragana and Katakana are a phonetic alphabet, that allow to represent sound. Kanji characters are logograms, that represent concepts.
 
 ## 2. Japanese Standard Library
 
@@ -66,9 +66,9 @@ The order does matter, it is quite different to english but very similar to func
 
 The neat thing about the japanese standard library is that it is very consistent. You can always expect the same result from the same input. It's a very predictable language. Verbs conjugate in a very predictable way (which coming from French is a breath of fresh air).
 
-## 3: Even Kanjis themselves can be functions
+## 3: Even Kanji themselves can be functions
 
-It's not immediately obvious to our western eyes, but Kanjis are offten composed of multiple components. A pretty neat exemple are the types of fish.
+It's not immediately obvious to our western eyes, but Kanji are offten composed of multiple components. A pretty neat exemple are the types of fish.
 
 ```typescript
 const fish:Kanji = "魚";
@@ -79,7 +79,7 @@ const salmon:Kanji = "鮭";
 const tuna:Kanji = "鮪";
 ```
 
-You can see here as an example that all the kanjis for the various type of fish are composed of the kanji for fish, and a secondary kanji stuck together. This is a very common pattern in japanese. For instance here, Mackerel is **鯖**, composed of 魚 + 青, aka the "blue fish".
+You can see here as an example that all the kanji for the various type of fish are composed of the kanji for fish, and a secondary kanji stuck together. This is a very common pattern in japanese. For instance here, Mackerel is **鯖**, composed of 魚 + 青, aka the "blue fish".
 
 
 ## 4: This extends to other parts of the language
